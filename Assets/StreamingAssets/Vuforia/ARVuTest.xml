@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ar_logo_2" size="1.000000 1.000000" />
+    <ImageTarget name="codeblockwrodcube" size="1.000000 0.818322" />
+    <ImageTarget name="10EuroSchein_620x325" size="1.000000 0.524194" />
+    <ImageTarget name="5euro" size="3.000000 1.559567" />
+  </Tracking>
+</QCARConfig>
